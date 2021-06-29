@@ -1,4 +1,4 @@
-# Fish-School-Tracking
+# Stocastic Processes: Simulation and Tracking of a fish school through statistical processes
 
 Stocastic Processes: Tracking of a fish school
 Sep 2018 – Jan 2019
