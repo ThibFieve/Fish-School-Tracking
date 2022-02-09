@@ -1,6 +1,6 @@
-# Stocastic Processes: Simulation and Tracking of a fish school through statistical processes
+# Stochastic Processes: Simulation and Tracking of a fish school through statistical processes
 
-*Stocastic Processes: Tracking of a fish school*,
+*Stochastic Processes: Tracking of a fish school*,
 Sep 2018 – Jan 2019
 
 __Tasks:__ In the context of the Stocastic Process course. We implement a simulation of tracking a fish school when confronted to a predator.
