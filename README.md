@@ -3,7 +3,7 @@
 *Stochastic Processes: Tracking of a fish school*,
 Sep 2018 – Jan 2019
 
-__Tasks:__ In the context of the Stocastic Process course. We implement a simulation of tracking a fish school when confronted to a predator.
+__Tasks:__ In the context of the Stochastic Process course. We implement a simulation of tracking a fish school when confronted to a predator.
 
 ## Problem solving strategy:
 
