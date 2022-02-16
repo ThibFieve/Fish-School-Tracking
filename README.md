@@ -30,4 +30,4 @@ __Part2:__ Fish tracking through time
 σ²obs=0.5 and a time step=0.05s. On the right one, evolution of the MLE when the time step increases with the
 same σ²obs=0.5 and for 500 particles.*
 
-*Report in English availalbe on Github.*
+*Report in English available on Github.*
